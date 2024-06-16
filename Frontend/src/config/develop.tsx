@@ -1,0 +1,1 @@
+export const REACT_APP_HOST_BACKEND = process.env.REACT_APP_HOST_BACKEND;

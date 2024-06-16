@@ -1,0 +1,268 @@
+[
+  {
+    "name": "TITTEBO",
+    "price": "1795",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/tittebo-jalusifoervaring-f-hushallsmaskiner-svart__1166391_pe891154_s5.jpg?f=xl",
+    "description": "Jalusiförvaring f hushållsmaskiner, svart, 60 cm",
+    "category": "kitchen",
+    "id": "fe756af1-4442-4ea6-aa63-0ff13adf2426"
+  },
+  {
+    "name": "VINDÅS",
+    "price": "6995",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/vindas-kyl-frysskap-ikea-300-fristaende-vit__1206907_pe907691_s5.jpg?f=xl",
+    "description": "Kyl-/frysskåp, IKEA 300 fristående/vit, 223/120 l",
+    "category": "kitchen",
+    "id": "28f7149f-252c-4801-a89c-10ed2755d9f9"
+  },
+  {
+    "name": "FÖLJANDE",
+    "price": "110",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/wall-mounted-extractor-hoods-33507.jpeg",
+    "description": "Väggmonterad köksfläkt, rostfritt stål, 80 cm",
+    "category": "kitchen",
+    "id": "9f3d0012-f400-405a-8146-52ea95e68c7f"
+  },
+  {
+    "name": "UNDERVERK",
+    "price": "3995",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/underverk-inbyggd-koeksflaekt-rostfritt-stal__0755571_pe748470_s5.jpg?f=xl",
+    "description": "Inbyggd köksfläkt, rostfritt stål, 80 cm",
+    "category": "kitchen",
+    "id": "ebb42ddf-8b92-4187-91e2-baf18bf352f5"
+  },
+  {
+    "name": "SVÄVANDE",
+    "price": "7995",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/ceiling-mounted-extractor-hoods-33508.jpeg",
+    "description": "Takmonterad fläktkåpa, rostfritt stål, 90 cm",
+    "category": "kitchen",
+    "id": "2638b114-56cb-4b61-ac42-448bc9cc7664"
+  },
+  {
+    "name": "UPPÅTVIND",
+    "price": "50",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/uppatvind-filter-foer-partikelborttagning__1124264_pe875119_s5.jpg?f=xl",
+    "description": "Filter för partikelborttagning",
+    "category": "kitchen",
+    "id": "7db8b5d4-f446-4352-b51e-d9cc2e08ab07"
+  },
+  {
+    "name": "TILLREDA",
+    "price": "995",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/tillreda-mikrovagsugn-vit__0912596_pe783444_s5.jpg?f=xl",
+    "description": "Mikrovågsugn, vit",
+    "category": "kitchen",
+    "id": "ae816150-7387-41e6-978f-c87e9f93132f"
+  },
+  {
+    "name": "VINTERKALL",
+    "price": "14995",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/vinterkall-kyl-frysskap-med-dubbeldoerr-ikea-700-fristaende-svart-rostfritt-stal__1022983_pe833012_s5.jpg?f=xl",
+    "description": "Kyl-/frysskåp med dubbeldörr,IKEA 700",
+    "category": "kitchen",
+    "id": "8d6fe3d5-f302-45bc-846f-3cff23227ac7"
+  },
+  {
+    "name": "LAGAN",
+    "price": "3995",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/lagan-kyl-frysskap-fristaende-vit__1281449_pe931884_s5.jpg?f=xl",
+    "description": "Kyl-/frysskåp, fristående/vit, 115/59 l",
+    "category": "kitchen",
+    "id": "5912ab9c-35c8-4c3e-9236-1fbda159bc5b"
+  },
+  {
+    "name": "VÄLBILDAD",
+    "price": "2995",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/induction-hobs-20813.jpeg",
+    "description": "Induktionshäll, IKEA 300 svart, 29 cm",
+    "category": "kitchen",
+    "id": "4c3eb83f-02e3-4853-88f4-b30c10a42527"
+  },
+  {
+    "name": "SKÅLAN",
+    "price": "2995",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/gas-hobs-20814.jpeg",
+    "description": "Gashäll, IKEA 300 rostfritt stål, 59 cm",
+    "category": "kitchen",
+    "id": "40491b62-e808-41c5-8fa1-d32cae44808e"
+  },
+  {
+    "price": "99",
+    "name": "VATTENKRASSE",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/growing-accessories-24887.jpeg",
+    "description": "Blomspruta, elfenbensvit/guldfärgad, 35 cl",
+    "category": "Plantor & blommor",
+    "id": "1aba2524-b46a-4b0c-9e40-333698bb8c08"
+  },
+  {
+    "price": "11590",
+    "name": "VIMLE",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/vimle-4-sitssoffa-med-schaeslong-gunnared-beige__0514363_pe639433_s5.jpg",
+    "description": "4-sitssoffa med schäslong, Gunnared beige",
+    "category": "sofa",
+    "id": "08a90a93-d576-45b4-afe6-9f9d575b1e7f"
+  },
+  {
+    "price": "4495",
+    "name": "KIVIK",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/kivik-3-sitssoffa-tibbleby-beige-gra__1056144_pe848277_s5.jpg",
+    "description": "3-sitssoffa, Tibbleby beige/grå",
+    "category": "sofa",
+    "id": "4a59ea82-a206-4e83-a564-bf163dd3d3e8"
+  },
+  {
+    "price": "179",
+    "name": "HÄSTVISKARE",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/haestviskare-minibyra-ekmoenstrad__1177709_pe896416_s5.jpg",
+    "description": "Minibyrå, ekmönstrad, 32x24 cm",
+    "category": "bedroom",
+    "id": "dc26d97a-4ad7-4d46-b855-0e4339908214"
+  },
+  {
+    "price": "129",
+    "name": "DRAGAN",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/dragan-badrumsset-4-delar-bambu__1282761_pe932302_s5.jpg?f=xl",
+    "description": "Badrumsset 4 delar, bambu",
+    "category": "bathroom",
+    "id": "2eccd26a-9216-426f-b329-d7523d1d236e"
+  },
+  {
+    "price": "79",
+    "name": "TJABBIG",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/tjabbig-korg-natur__1115923_pe872434_s5.jpg",
+    "description": "Korg, natur, 25x23 cm",
+    "category": "bathroom",
+    "id": "e393d9da-ea54-41f4-8611-5e39f150851e"
+  },
+  {
+    "price": "49",
+    "name": "FEJKA",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/fejka-konstgjord-krukvaext-inom-utomhus-monstera__0959226_pe809439_s5.jpg",
+    "description": "Konstgjord krukväxt",
+    "category": "livingroom",
+    "id": "d843d63a-fb98-4591-a1d8-defa0db28a53"
+  },
+  {
+    "price": "149",
+    "name": "FEJKA",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/fejka-konstgjord-krukvaext-inom-utomhus-arekapalm__1034053_pe840164_s5.jpg",
+    "description": "Konstgjord krukväxt, inom-/utomhus",
+    "category": "blommor",
+    "id": "ca223e18-784a-4b33-98da-c90538f240fb"
+  },
+  {
+    "price": "300",
+    "name": "SMYCKA",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/calathea-krukvaext-kalatea__1042985_pe841643_s5.jpg",
+    "description": "Konstgjord blomma, nejlika",
+    "category": "Blommor",
+    "id": "05af219d-4b3e-4a99-93b9-61b6d2e6d582"
+  },
+  {
+    "price": "339",
+    "name": "CALATHEA",
+    "url": "/se/sv/cat/golvvaxter-700524/",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/floor-plants-700524.jpeg",
+    "description": "Krukväxt, Kalatea, 24 cm",
+    "category": "Blommor",
+    "id": "bcd7a095-7a7e-4791-8db8-d90778a1ee27"
+  },
+  {
+    "price": "349",
+    "name": "POLYSCIAS",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/polyscias-krukvaext-naetaralia-olika-arter__1299364_pe936546_s5.jpg",
+    "description": "Krukväxt, Nätaralia/olika arter, 24 cm",
+    "category": "Blommor & gröna växter",
+    "id": "3c6d856d-bcc0-462a-aac6-176a46907b9f"
+  },
+  {
+    "price": "295",
+    "name": "Krukväxter",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/flowering-plants-700527.jpeg",
+    "description": "Krukväxt, Clusia, 12 cm",
+    "category": "Blommor",
+    "id": "50310b15-d427-45fc-94a9-89749c16845e"
+  },
+  {
+    "price": "59",
+    "name": "CLUSIA",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/clusia-krukvaext-clusia__0653977_pe708206_s5.jpg",
+    "description": "Krukväxt, Clusia, 12 cm",
+    "category": "Blommor",
+    "id": "d1c7e4e3-8574-4b66-b5b8-d6e5b692cd8f"
+  },
+  {
+    "price": "1295",
+    "name": "VOXLÖV",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/voxloev-stol-ljus-bambu__0948161_pe798889_s5.jpg",
+    "description": "Stol, ljus bambu",
+    "category": "kitchen",
+    "id": "cbe87ee6-ae57-4cfb-9d3e-00923038ab30"
+  },
+  {
+    "description": "Karmstol, rotting/vit",
+    "category": "kitchen",
+    "price": "1295",
+    "name": "NILSOVE",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/nilsove-karmstol-rotting-vit__0672929_pe716967_s5.jpg",
+    "id": "0d68e7f0-bbf1-4afd-9f89-ba3163ad3f98"
+  },
+  {
+    "price": "749",
+    "name": "TÄRNÖ",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/taernoe-bord-2-stolar-utomhus-svart-ljusbrunlaserad-kuddarna-beige__0666808_pe713691_s5.jpg",
+    "description": "Bord+2 stolar, utomhus, svart",
+    "category": "Krukor & planteringskrukor",
+    "id": "eb0222bb-0efe-484c-acdc-ef2b40466a44"
+  },
+  {
+    "price": "99",
+    "name": "KAPKRUSBÄR",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/hanging-planters-59240.jpeg",
+    "description": "Ampel, ljusgrå, 12 cm",
+    "category": "livingroom",
+    "id": "d4e46fd8-d5d5-4579-aa5a-a4fbe7a3683d"
+  },
+  {
+    "price": "200",
+    "name": "SATSUMAS",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/plant-stands-movers-20494.jpeg",
+    "description": "Piedestal, bambu/vit, 78 cm",
+    "category": "livingroom",
+    "id": "66d80f3c-44a9-4ed7-83e6-cf1c80220ab9"
+  },
+  {
+    "price": "229",
+    "name": "DAKSJUS",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/daksjus-sjaelvbevattningskruka-terrakotta-groen__1221346_pe913734_s5.jpg?f=xl",
+    "description": "Självbevattningskruka, 27x13 cm",
+    "category": "livingroom",
+    "id": "21449fe6-e505-4b5a-971b-58b5d1b4cf90"
+  },
+  {
+    "price": "195",
+    "name": "TOLKNING",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/plant-stands-movers-20494.jpeg",
+    "description": "Piedestal, handgjord rotting, 66 cm",
+    "category": "livingroom",
+    "id": "1c604d5f-4750-46b2-96d1-e6e205c3accf"
+  },
+  {
+    "price": "99",
+    "name": "VATTENKRASSE",
+    "url": "/se/sv/cat/minivaexthus-odlingstillbehoer-24887/",
+    "imageUrl": "https://www.ikea.com/global/assets/range-categorisation/images/product/growing-accessories-24887.jpeg",
+    "description": "Blomspruta, elfenbensvit/guldfärgad, 35 cl",
+    "category": "livingroom",
+    "id": "d8723b6a-0d9c-4dc6-ac0a-5ec522942689"
+  },
+  {
+    "price": "149",
+    "name": "ÄRTBUSKE",
+    "imageUrl": "https://www.ikea.com/se/sv/images/products/aertbuske-vas-vattenkanna-klargroen__1115560_pe872286_s5.jpg",
+    "description": "Vas/vattenkanna, klargrön, 24 cm",
+    "category": "livingroom",
+    "id": "b56c9cbc-9f43-44a9-bbf8-059807cf0f53"
+  }
+]
