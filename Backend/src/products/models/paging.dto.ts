@@ -1,5 +1,5 @@
 export class PagingDto {
-  public page_size: string;
+  public page_size: number;
 
-  public page_number: string;
+  public page_number: number;
 }
