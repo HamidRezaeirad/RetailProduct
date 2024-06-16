@@ -8,8 +8,8 @@ user-friendly interface to search and display products.
 
 ## Backend README
 
-[Backend](./retail_product_bk/README.md)
+[Backend](./Backend/README.md)
 
 ## Frontend README
 
-[Frontend](./retail_product_fe//README.md)
+[Frontend](./Frontend/README.md)
