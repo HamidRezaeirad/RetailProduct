@@ -1,5 +1,5 @@
-import React from "react";
 import classNames from "classnames";
+import React from "react";
 import { PagingProps } from "../../interfaces/Paging.props";
 
 /**
@@ -19,7 +19,7 @@ const Paging: React.FC<PagingProps> = ({
   const TotalPageNumberToView = 5;
   let hasPreDots = false;
   let hasPostDots = false;
-  let btnArray: any = null;
+  let btnArray: number = null;
   let numberOfPages = 0;
 
   const performPagination = () => {
@@ -56,7 +56,7 @@ const Paging: React.FC<PagingProps> = ({
   };
 
   const pages = () => {
-    return btnArray.map((item: any) => {
+    return btnArray.map((item: number) => {
       return (
         <button
           type="button"
@@ -73,7 +73,7 @@ const Paging: React.FC<PagingProps> = ({
     });
   };
 
-  const getPrePostBtns = (direction: any) => {
+  const getPrePostBtns = (direction: string) => {
     let disabled =
       ((direction === "pre" || direction === "first") && currentPage === 1) ||
       ((direction === "post" || direction === "last") &&
