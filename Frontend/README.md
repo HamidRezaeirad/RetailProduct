@@ -4,7 +4,7 @@ Hi.
 
 This is a sample code for implementing Front End in React.
 
-It is a retail product catalog application with a backend that supports fuzzy searching of
+It is a retail product catalog application with a backend that supports searching for
 products to accommodate user input errors and approximations. The front end provides a
 user-friendly interface to search and display products.
 
@@ -17,7 +17,6 @@ user-friendly interface to search and display products.
 
 - Product List
 - Product Detail
-- Fuzzy search
 
 ## Product List
 
@@ -26,10 +25,6 @@ user-friendly interface to search and display products.
 ## Product Detail
 
 - Product Detail displays details of a product.
-
-## Fuzzy search
-
-- Fuzzy search lets end users search products with names. It will be found even if there is a typo.
 
 ## Installation
 
