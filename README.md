@@ -2,8 +2,8 @@
 
 Hi.
 
-It is a retail product catalog application with a backend that supports fuzzy searching of
-products to accommodate for user input errors and approximations. The frontend provideds a
+It is a retail product catalog application with a backend that supports searching for
+products to accommodate for user input errors and approximations. The frontend provides a
 user-friendly interface to search and display products.
 
 ## Backend README
