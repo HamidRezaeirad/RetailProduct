@@ -4,7 +4,7 @@ Hi.
 
 This is a sample code for implementing Rest APIs in NestJS.
 
-It is a retail product catalog application with a backend that supports fuzzy searching of
+It is a retail product catalog application with a backend that supports searching for
 products to accommodate user input errors and approximations. The front end provides a
 user-friendly interface to search and display products.
 
